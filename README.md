@@ -10,3 +10,8 @@ for oData  processing.
 
 The code is built using Microsoft Visual Studio 2013
 with OData v3 capabilities.
+
+
+Please refer to the following documentation for more information:
+
+https://docs.google.com/document/d/1kvpwkoy2p2yGvlJm9wN2GFUniUQy6tWRMOGjMLW6iUg/edit#heading=h.pd2wddl80fpa
